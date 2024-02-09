@@ -1,0 +1,23 @@
+import React from 'react'
+import './Footer.css'
+export const Footer = () => {
+  return (
+    <>
+    <footer className="footer">
+
+        <div>
+            <h1 className='caja-grande'>caja Grande</h1>
+        </div>
+        <div className='container-footer'>
+            <ul className='ul'>
+                <li>Faceboock</li>
+                <li>Twitre</li>
+                <li>Victor</li>
+                <li>Javier</li>
+                <li>Vivas</li>
+            </ul>
+        </div>
+    </footer>
+    </>
+  )
+}

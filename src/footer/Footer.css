@@ -1,0 +1,18 @@
+.caja-grande {
+  width: 600px;
+  height: 400px;
+  background-color: blue;
+  color: white;
+  font-size: 2rem;
+}
+.container-footer {
+  background-color: black;
+  color: white;
+  height: 50px;
+  width: 90%;
+  margin: 30px;
+}
+.ul {
+  display: flex;
+  justify-content: space-around;
+}
