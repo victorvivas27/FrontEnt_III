@@ -1,0 +1,9 @@
+.caja-grande2{
+    border: 1px solid black;
+    background: #ffff99;
+    border-radius: 10px;
+    color: black;
+    height: 100px;
+    width: 150px;
+    margin: 10px;
+}
